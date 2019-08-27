@@ -5,3 +5,21 @@
 ### aula 3 parte 1, estruturas de decisão
 
 * As estruturas de decisão na linguagem python tem uma característica peculiar, elas necessitam de [**identação**](https://www.google.com/search?q=indentation&ie=&oe=) para poder funcionar corretamente 
+  * exemplo: 
+  JAVA | PHYTON
+  ---- | ------
+ ```java | 
+ if (condicao logica) {
+     codigo
+     codigo
+     codigo
+ }
+ else if (condicao logica) {
+     codigo 
+     codigo 
+     codigo
+ }|
+ else (condicao logica) {
+     codigo
+     codigo
+ }
