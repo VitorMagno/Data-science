@@ -14,13 +14,10 @@
 * for
     * exemplo:
     ```python 
-    for n range (0,10):
+    for n range (0,10, 1):
         print (n)
     ```
-* range (inicio, parada, incremento) 
-    * exemplo:
-    ```python
-    range (0, 10, 1):
-    ```
+    * range (inicio, parada, incremento) 
+    
 * interrupções 
     * para interromper o laço _break_, para reiniciar _continue_ 
