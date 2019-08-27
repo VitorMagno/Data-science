@@ -26,15 +26,16 @@
  * exemplo PYTHON:
 
 ```python
-if (condicao logica)
+if (condicao logica) :
     codigo
     codigo
     codigo
-else if (codicao logica)
+else if (codicao logica) :
     codigo
     codigo
     codigo
-else 
+else :
     codigo
     codigo
 ```
+* Como é possível notar, em python, não é usado nenhum caractere especial para separar o codigo, apenas o uso de paragrafos e quebras de linha
