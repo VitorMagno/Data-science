@@ -2,7 +2,7 @@
 
 ## introdução a python
 
-### aula , parte 1, Estruturas de repetição
+### aula 4, parte 1, Estruturas de repetição
 * while
     * exemplo: 
     ```python
