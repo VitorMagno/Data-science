@@ -15,4 +15,5 @@ para printar usar a função print("texto",variaveis)
 para fazer comentários usar o #
   * ex: # este texto é comentário. Também pode ser feito no meio do codigo, assim: x = 10 # a partir daqui é comentário. Para fazer um comentário de varias linhas usar '''todo esse trecho é comentário'''
 
+### fim da aula 1
 
