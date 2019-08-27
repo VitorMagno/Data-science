@@ -30,7 +30,7 @@ if (condicao logica) :
     codigo
     codigo
     codigo
-else if (codicao logica) :
+elif (codicao logica) :
     codigo
     codigo
     codigo
@@ -39,3 +39,12 @@ else :
     codigo
 ```
 * Como é possível notar, em python, não é usado nenhum caractere especial para separar o codigo, apenas o uso de paragrafos e quebras de linha
+
+#### Operadores de comparação 
+* Os operadores de comparação são os mesmos da linguagem C: **<, >, ==, !=, <=, >=**
+
+#### Operadores lógicos 
+* And 
+* Or
+* Not 
+
