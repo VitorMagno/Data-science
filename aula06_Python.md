@@ -2,9 +2,9 @@
 
 ## introdução a python
 
-### aula 6, parte 1, módulos e pacotes
+### aula 6, parte 1, _módulos_ e _pacotes_
 
-* Módulos  são conjuntos de funcionalidades organizadas em arquivos 
+* _Módulos_  são conjuntos de funcionalidades organizadas em arquivos 
     * ex: 
     ```python 
     import statistics 
@@ -17,7 +17,7 @@
     x = est.mean (z)
     y = est.median (z)
     ```
-    * também posso fazer o uso sem a declaração do módulo 
+    * também posso fazer o uso sem a declaração do _módulo_ 
         * ex:
         ```python 
         from statistics import mean, median
@@ -28,14 +28,14 @@
         
         from statistics import *
         ```
-    * além dos módulos o python tem pacotes, que é um conjunto de módulos 
+    * além dos _módulos_ o python tem _pacotes_, que é um conjunto de _módulos_ 
         * ex:
         ```python 
         import cienciadedados.estatistica, cienciadedados.machinelearning
         ```
-        * esses pacotes organizam os módulos usando notação de pontos. 
+        * esses _pacotes_ organizam os _módulos_ usando notação de pontos. 
         * existem várias funções padrão, [aqui](https://docs.python.org/3/library/) está uma lista.
-        * Módulos e pacotes adicionais [aqui](https://pypi.org/). Pip é um programa para instalar módulos e pacotes. A instalação do pip é feita pelo prompt de comando utilizando 
+        * _Módulos_ e _pacotes_ adicionais [aqui](https://pypi.org/). Pip é um programa para instalar _módulos_ e _pacotes_. A instalação do pip é feita pelo prompt de comando utilizando 
             ´´´python 
             python -m ensurepip --default-pip
             ´´´
