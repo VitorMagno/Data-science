@@ -36,10 +36,14 @@
         * esses _pacotes_ organizam os _módulos_ usando notação de pontos. 
         * existem várias funções padrão, [aqui](https://docs.python.org/3/library/) está uma lista.
         * _Módulos_ e _pacotes_ adicionais [aqui](https://pypi.org/). Pip é um programa para instalar _módulos_ e _pacotes_. A instalação do pip é feita pelo prompt de comando utilizando 
-            ´´´python 
+            ```python 
+
             python -m ensurepip --default-pip
-            ´´´
+            
+            ```
             * para instalar um pacote :
-            ´´´python 
+            ```python 
+            
             python -m pip install numpy
-            ´´´
+            
+            ```
