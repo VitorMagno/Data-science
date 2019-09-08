@@ -29,5 +29,7 @@
                     for inic in range (1, fim +1) :
                         print (inic)
 
-                intervalo ()
+                intervalo (1,10) #as variáveis (inic e fim) assumiriam esses valores
+                #ou
+                intervalo () #as variáveis assumiriam os valores padrão já estabelecidos
     ```
