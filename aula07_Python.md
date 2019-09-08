@@ -5,7 +5,8 @@
 ### aula 7, parte 1, funções
 
 * Funções são blocos de códigos criadas pelo desenvolvedor ou previamente definidas
-    * exemplo: ```python 
+    * exemplo: 
+    ```python 
                 def imprime ():
                 print ("função 01")
 
