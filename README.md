@@ -1,5 +1,5 @@
 # curso Data-Scientist
-inicialmente esse repositório serviria para o curso de web, mas como comecei o de cientista de dados primeiro, então usei esse mesmo
+Goals
 - [x] change the directory name.
 - [x] change the remote server. 
 - [x] learn python basics.
